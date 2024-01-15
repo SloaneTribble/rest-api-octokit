@@ -1,4 +1,4 @@
-// expires Feb 11 2024
+// expires Feb 15 2024
 module.exports = {
-    token: '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',
+    token: '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',
   };
